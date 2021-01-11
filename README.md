@@ -32,11 +32,6 @@
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   
   
- 
-<p align="center"><a href="https://wa.me/62895334962050?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-</div>
-
-
 
 ## Getting Started
 
