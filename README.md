@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Urbaee" width="225" height="225"/>
+<img src="https://avatars.githubusercontent.com/fuuselena" width="225" height="225"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Urbaee"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Thoriq-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Urbaee"><img title="Author" src="https://img.shields.io/badge/AUTHOR-N-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Urbaee/followers"><img title="Followers" src="https://img.shields.io/github/followers/Urbaee?color=blue&style=flat-square"></a>
 <a href="https://github.com/Urbaee/whatsapp-bot2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Urbaee/whatsapp-bot2?color=red&style=flat-square"></a>
