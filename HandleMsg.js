@@ -319,6 +319,24 @@ module.exports = HandleMsg = async (aruga, message) => {
       if (chats == 'Bodoh'){
         aruga.sendPtt(from, './media/bakaa.mp3', id)
       }
+      if (chats == 'iri'){
+	aruga.sendPtt(from, './media/iri.mp3', id)
+      }
+      if (chats == 'tariksis'){
+	aruga.sendPtt(from, './media/tarekses.mp3', id)
+      }
+      if (chats == 'Tariksis'){
+        aruga.sendPtt(from, './media/tarekses.mp3', id)
+      }
+      if (chats == 'tarekses'){
+        aruga.sendPtt(from, './media/tarekses.mp3', id)
+      }
+      if (chats == 'kangcopet'){
+        aruga.sendPtt(from, './media/welot.mp3', id)
+      }
+      if (chats == 'welotka'){
+        aruga.sendPtt(from, './media/welot.mp3', id)
+      }		
 
 
         const mess = {
